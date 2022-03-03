@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    
+    width: 365px;
+    height: 93px;
+    margin-left: 124px;
+    margin-top: 91px;
+    font-family: Roboto Slab ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+}
+.container{
+    margin: 0 150px 0 124px;
+}
+.main{
+    margin-top: 17px;
+
+}
+.maintext{
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 150%;
+
+width: 662px;
+height: 374px;
+}
+.maincontent{
+    display: flex;
+    
+}
+.mainphoto1{
+    position: sticky;
+    width: 314px;
+    height: 315px;
+    left: 51%;
+    top: 24%;
+    z-index: 2;
+}
+.mainphoto2{
+   
+    width: 366px;
+    height: 59px;
+} 
+.footer{
+    margin-top: 95px;
+}
+.footercontent{
+    display: flex;
+}
+.footer1{
+    position: absolute;
+    width: 232px;
+    height: 203px;
+    left: 124px;
+top: 670px;
+}
